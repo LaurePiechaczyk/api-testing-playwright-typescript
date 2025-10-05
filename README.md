@@ -11,7 +11,7 @@ Some concepts and examples here were learned from or inspired by this [YouTube V
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/playwright-api-tests.git
+git clone https://github.com/LaurePiechaczyk/api-testing-playwright-typescript.git
 
 cd playwright-api-tests
 
